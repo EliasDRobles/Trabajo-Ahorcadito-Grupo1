@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import Inicio from "../img/Inicio.png";
 import Button from "react-bootstrap/Button";
 import sonido1 from '../sounds/sonido1.mp3';
-import React from 'react';
+
 
 export default function Home(){
 
