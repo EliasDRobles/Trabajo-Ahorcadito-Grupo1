@@ -1,4 +1,5 @@
 import "../styles/Home.css";
+import React from "react";
 import { Link } from "react-router-dom";
 import Inicio from "../img/principal.jpeg";
 import Button from "react-bootstrap/Button";

@@ -1,9 +1,12 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 import "../styles/Juego.css";
+import React from "react";
 
-export default function Juego() {
-  <Button variant="warning" >
-    <Link to='/' className="btn btn-principal">Volver</Link>
-  </Button>
-};
+function Juego() {
+
+    <h1>hola</h1>
+
+}
+
+export default Juego;
+
